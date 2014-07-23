@@ -2,7 +2,7 @@
 # psl1ght.sh by Dan Peori (dan.peori@oopo.net)
 
 ## Download the source code.
-clone clone https://github.com/nevik-xx/psl1ght.git
+git clone https://github.com/nevik-xx/psl1ght.git
 
 ## Unpack the source code.
 #rm -Rf psl1ght && mkdir psl1ght && tar --strip-components=1 --directory=psl1ght -xvzf psl1ght.tar.gz
